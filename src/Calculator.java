@@ -40,5 +40,6 @@ public class Calculator {
 
         System.out.println("Результат: " + result);
     }
+
 }
 
